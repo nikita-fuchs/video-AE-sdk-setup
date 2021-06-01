@@ -1,0 +1,30 @@
+{
+  "name": "video4",
+  "version": "1.0.0",
+  "description": "the complete example code for aeternity SDK setup video",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nikita-fuchs/aeternity-sdk-setup-example.git"
+  },
+  "keywords": [
+    "aeternity",
+    "sdk",
+    "setup",
+    "video",
+    "comms",
+    "communications"
+  ],
+  "author": "nikita fuchs & the aeternity team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikita-fuchs/aeternity-sdk-setup-example/issues"
+  },
+  "homepage": "https://github.com/nikita-fuchs/aeternity-sdk-setup-example#readme",
+  "dependencies": {
+    "@aeternity/aepp-sdk": "^8.0.0"
+  }
+}
